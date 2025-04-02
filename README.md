@@ -30,7 +30,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt5NGo3OGJjd3N3NG8wMmp3eDhscmFtZjFxYnRqcG1iY3pubXowdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ma0X1M9lQB4FruMaX3/giphy.gif" width="300"/>
+  <img src="https://tenor.com/tr/view/camera-zoom-in-picture-shoot-focus-gif-17848265" width="300"/>
 </div>
 
 </div>
