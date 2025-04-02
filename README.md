@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m interested in **Data Science, Generative AI**
+ 🔭 I’m interested in **Data Science, Generative AI**.
  
- 🌱 I’m currently learning **RAG, Prompt Engineering, Machine Learning**
+ 🌱 I’m currently learning **RAG, Prompt Engineering**.
 
- 📸 A fact about me: I'm also a **photographer** 
+ 📸 A fact about me: I'm also a **photographer**.
 
 
  </div>
