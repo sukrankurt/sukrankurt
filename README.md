@@ -24,7 +24,7 @@
   <a href="https://tr.linkedin.com/in/sukrankurt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
  <a href="https://www.pexels.com/tr-tr/@sukran-1051236099/" target="_blank">
-  <img src="https://www.freepnglogos.com/uploads/pexels-logo-png-8.png" 
+  <img src="https://seeklogo.com/vector-logo/426706/pexels" 
        alt="Pexels" height="40"/>
 </a>
 
