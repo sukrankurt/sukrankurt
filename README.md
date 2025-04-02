@@ -30,7 +30,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp5M2ljYW9sdm56bXMxcDllNWhqempjcjdwdzBhajA2cGNwZGd3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rk3MD1PtvVatwMQeBN/giphy.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt5NGo3OGJjd3N3NG8wMmp3eDhscmFtZjFxYnRqcG1iY3pubXowdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ma0X1M9lQB4FruMaX3/giphy.gif" width="300"/>
 </div>
 
 </div>
