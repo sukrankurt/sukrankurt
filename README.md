@@ -30,8 +30,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://tenor.com/tr/view/camera-zoom-in-picture-shoot-focus-gif-17848265" width="300"/>
+  <img src="https://media.tenor.com/images/9c8cbd5b57a56b5385c215d9a8f1a86c/tenor.gif" width="300"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="17848265" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/camera-zoom-in-picture-shoot-focus-gif-17848265">Camera Zoom In GIF</a>from <a href="https://tenor.com/search/camera-gifs">Camera GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+
