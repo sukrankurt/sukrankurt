@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">A passionate Computer Engineer </h3>
+<h3 align="center">A passionate Computer Engineer & Photographer </h3>
 
 <br/>
 
