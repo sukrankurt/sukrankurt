@@ -6,10 +6,6 @@
 
 <br/>
 
-<h3 align="center">A passionate Computer Engineer & Photographer </h3>
-
-<br/>
-
 <div align="center">
  
  🔭 I’m interested in **Data Science, Generative AI**.
