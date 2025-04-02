@@ -30,7 +30,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://media.tenor.com/images/9c8cbd5b57a56b5385c215d9a8f1a86c/tenor.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/LYTP9xWHLfAAAAAC/camera-zoom-in.gif" width="300"/>
 </div>
 
 
