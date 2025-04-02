@@ -23,10 +23,11 @@
   </a>
   <a href="https://tr.linkedin.com/in/sukrankurt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <a href="https://www.pexels.com/tr-tr/@sukran-1051236099/" target="_blank">
-     <img src="https://images.app.goo.gl/ECdMDSvGqASxBsFHA" target="_blank" /> 
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Pexels_logo_black.svg" 
+       alt="Pexels" height="28" />
+</a>
+
 </div>
 
 
